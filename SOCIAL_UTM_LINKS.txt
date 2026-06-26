@@ -1,0 +1,23 @@
+DATAVERO SOCIAL UTM LINKS
+
+Use these links when posting on social media so Google Analytics can separate social traffic from Direct traffic.
+
+LinkedIn daily post:
+https://datavero.io/?utm_source=linkedin&utm_medium=social&utm_campaign=daily_post
+
+Facebook daily post:
+https://datavero.io/?utm_source=facebook&utm_medium=social&utm_campaign=daily_post
+
+Instagram bio/profile:
+https://datavero.io/?utm_source=instagram&utm_medium=social&utm_campaign=profile_link
+
+Instagram story:
+https://datavero.io/?utm_source=instagram&utm_medium=story&utm_campaign=daily_story
+
+LinkedIn service post for Power BI:
+https://datavero.io/power-bi-dashboard-services.html?utm_source=linkedin&utm_medium=social&utm_campaign=power_bi_service_post
+
+Facebook service post for Excel dashboards:
+https://datavero.io/excel-dashboard-services.html?utm_source=facebook&utm_medium=social&utm_campaign=excel_dashboard_service_post
+
+Tip: Use one of these instead of plain https://datavero.io when posting on LinkedIn, Facebook, Instagram, WhatsApp groups, or profile bios.
